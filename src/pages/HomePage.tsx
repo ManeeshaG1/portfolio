@@ -183,9 +183,26 @@ const Home: React.FC = () => {
                     >
                       View My Work
                     </Button>
+                    {/* <Button
+                      variant="outlined"
+                      size="large"
+                      sx={{
+                        borderColor: "white",
+                        color: "white",
+                        "&:hover": {
+                          bgcolor: "rgba(255,255,255,0.1)",
+                        },
+                      }}
+                    >
+                      Download Resume
+                    </Button> */}
                     <Button
                       variant="outlined"
                       size="large"
+                      component="a"
+                      href="/Maneesha_Goonetilleke_Resume.pdf"
+                      target="_blank"
+                      rel="noopener noreferrer"
                       sx={{
                         borderColor: "white",
                         color: "white",
