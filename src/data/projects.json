@@ -1,0 +1,446 @@
+  [
+    {
+      "id": 1,
+      "title": "Fluffy's Flight",
+      "description": "Help Fluffy, the baby parrot, safely bounce down a spinning tree in this addictive arcade game! Built in Unity with multi-auth login, leaderboard, and ad monetization. Available on Google Play.",
+      "longDescription": "Fluffy's Flight is a charming arcade game that takes players on an endless descent with Fluffy, an adorable baby parrot, as it overcomes its fear of heights. Inspired by the core mechanics of Helix Jump, players swipe to rotate a 3D tree structure, guiding Fluffy through safe openings while avoiding broken bricks and gaps. Developed using Unity, I handled the complete game development cycle, from concept to deployment, including implementing physics-based movement, procedural level generation, and integrating multi-platform login, cloud save, and real-time leaderboards. The game also features monetization through Unity LevelPlay with IronSource and ad placements. Published successfully on the Google Play Store, Fluffy's Flight combines immersive gameplay, colorful visuals, and relaxing music to offer a skill-based, addictive experience suitable for all ages.",
+      "image": "https://github.com/Pasindu-Promodh/portfolio/raw/main/public/Fluffy%20Flight/FF%20Banner.png",
+      "tags": ["Unity", "C#", "Arcade", "Mobile Game", "Endless", "3D", "Game Design"],
+      "type": "mobile",
+      "status": "completed",
+      "featured": true,
+      "github": "https://github.com/ManeeshaG1/Fluffys-Flight/",
+      "demo": "https://play.google.com/store/apps/details?id=com.BoomerBrainLabs.FluffysFlight",
+      "download": "https://play.google.com/store/apps/details?id=com.BoomerBrainLabs.FluffysFlight",
+      "media": [
+        "https://github.com/Pasindu-Promodh/portfolio/raw/main/public/Fluffy%20Flight/FF_GameIcon.png",
+        "https://github.com/Pasindu-Promodh/portfolio/raw/main/public/Fluffy%20Flight/Fluffy%20Flight%20Screen%20Recording%20(1).mp4",
+        "https://github.com/Pasindu-Promodh/portfolio/raw/main/public/Fluffy%20Flight/Fluffy%20Flight%20Screen%20Recording%20(2).mp4",
+        "https://raw.githubusercontent.com/Pasindu-Promodh/portfolio/main/public/Fluffy%20Flight/Image%20Sequence_004_0019.jpg",
+        "https://raw.githubusercontent.com/Pasindu-Promodh/portfolio/main/public/Fluffy%20Flight/Image%20Sequence_004_0111.jpg",
+        "https://raw.githubusercontent.com/Pasindu-Promodh/portfolio/main/public/Fluffy%20Flight/Image%20Sequence_004_0207.jpg",
+        "https://raw.githubusercontent.com/Pasindu-Promodh/portfolio/main/public/Fluffy%20Flight/Image%20Sequence_004_0500.jpg",
+        "https://raw.githubusercontent.com/Pasindu-Promodh/portfolio/main/public/Fluffy%20Flight/Image%20Sequence_004_0516.jpg",
+        "https://raw.githubusercontent.com/Pasindu-Promodh/portfolio/main/public/Fluffy%20Flight/Image%20Sequence_004_0881.jpg",
+        "https://raw.githubusercontent.com/Pasindu-Promodh/portfolio/main/public/Fluffy%20Flight/Image%20Sequence_004_0926.jpg"
+      ],
+      "features": [
+        "3D endless gameplay",
+        "Physics-based movement",
+        "Procedural level generation",
+        "Multi-platform login support",
+        "Leaderboard integration",
+        "Ad monetization with IronSource"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Dilmah - Legacy of the Leaf",
+      "description": "Narrative-driven RPG that brings the story and values of Dilmah Tea to life.",
+      "longDescription": "A 3D third-person RPG/adventure PC title developed in Unreal Engine for Dilmah Ceylon Tea Company PLC, in collaboration with Nine Hermits Games. As a Junior Game Developer and Project Manager at this project, I contributed to crafting an immersive narrative experience that highlights Sri Lanka's tea culture, biodiversity, and Dilmah’s core values of kindness, authenticity, and sustainability. I co-developed the narrative-driven RPG adventure game, overseeing the entire development process as Project Manager. Set in a stylized yet realistic depiction of the Dunkeld Tea Estate, the gameplay blends exploration, character-driven storytelling, and quest-based progression. My responsibilities included designing and implementing nine interactive minigames (eight completed, one in development), and developing and designing the main menu, settings menu, quest system, full UI/UX design, and visual effects to support thematic storytelling. The project is currently unreleased and intended as a branded serious game for global audiences.",     
+      "image": "https://github.com/Pasindu-Promodh/portfolio/blob/main/public/Dilmah/Screenshot%20(37).png?raw=true",
+      "tags": ["Unreal Engine", "RPG", "3D Game", "Narrative", "PC Game", "Game Design", "Adventure"],
+      "type": "game",
+      "status": "in development",
+      "featured": true,
+      "media": [
+        "https://github.com/Pasindu-Promodh/portfolio/raw/refs/heads/main/public/Dilmah/Settings/Dilmah%20-%20Unreal%20Editor%202025-07-12%2019-28-19%20(online-video-cutter.com).mp4",
+        "https://github.com/Pasindu-Promodh/portfolio/blob/main/public/Dilmah/Settings/Screenshot%20(39).png?raw=true",
+        "https://github.com/Pasindu-Promodh/portfolio/raw/refs/heads/main/public/Dilmah/Quest/Dilmah%20-%20Unreal%20Editor%202025-07-06%2020-59-03%20(online-video-cutter.com).mp4",
+        "https://github.com/Pasindu-Promodh/portfolio/blob/main/public/Dilmah/Quest/Screenshot%202025-07-06%20211832.png?raw=true",
+        "https://github.com/Pasindu-Promodh/portfolio/blob/main/public/Dilmah/Quest/Screenshot%202025-07-06%20212009.png?raw=true",
+        "https://github.com/Pasindu-Promodh/portfolio/blob/main/public/Dilmah/Quest/Screenshot%202025-07-06%20212048.png?raw=true",
+        "https://github.com/Pasindu-Promodh/portfolio/blob/main/public/Dilmah/Quest/Screenshot%202025-07-06%20212132.png?raw=true"
+      ],
+      "features": [
+        "Narrative-Driven RPG Adventure",
+        "Interactive Learning: The Journey of Tea",
+        "Authentic World Design",
+        "Immersive Visuals & Effects",
+        "Educational + Emotional Engagement",
+        "9 Interactive Mini games",
+        "Custom UI/UX Design"
+      ]
+    },
+
+    {
+      "id": 3,
+      "title": "Tea Plucking Game - Tea Harvest Rush",
+      "description": "Quickly pluck tea buds as they bloom on the bushes.",
+      "longDescription": "This minigame is part of ‘Dilmah - Legacy of the Leaf’, Players must react fast as tea buds bloom randomly and briefly on-screen. Click them before they wither to collect as many as possible before time runs out. A fast-paced, reflex-based game to simulate the tea plucking experience.",
+      "image": "https://github.com/Pasindu-Promodh/portfolio/blob/main/public/Dilmah/SS/Plucking.png?raw=true",
+      "tags": ["Unreal Engine", "Blueprints", "3D Game", "Pawn Blueprint", "Mini Game Base", "Mini Game", "Reflex", "Tea", "Harvest"],
+      "type": "game",
+      "status": "completed",
+      "featured": false,
+      "media" : ["https://github.com/Pasindu-Promodh/portfolio/raw/main/public/Dilmah/Plucking.mp4"]
+    },
+    {
+      "id": 4,
+      "title": "Leaves Withering Game - Whirl & Whither",
+      "description": "Control temperature and humidity to wither tea leaves perfectly.",
+      "longDescription": "This minigame is part of ‘Dilmah - Legacy of the Leaf’, Maintain optimal temperature and humidity inside a withering machine. Players must monitor changing conditions and adjust dials in real time to ensure high-quality leaf processing without damaging the batch.",
+      "image": "https://github.com/Pasindu-Promodh/portfolio/blob/main/public/Dilmah/SS/Wither.png?raw=true",
+      "tags": ["Unreal Engine", "Blueprints", "3D Game", "Pawn Blueprint", "Mini Game Base","Mini Game", "Simulation", "Withering", "Balance"],
+      "type": "game",
+      "status": "completed",
+      "featured": false,
+      "media": ["https://github.com/Pasindu-Promodh/portfolio/raw/main/public/Dilmah/Withering.mp4"]
+    },
+    {
+      "id": 5,
+      "title": "Leaves Rolling Game - Rollin' & Infusin'",
+      "description": "Control the speed of the tea rolling machine to preserve flavor.",
+      "longDescription": "This minigame is part of ‘Dilmah - Legacy of the Leaf’, Operate a rolling machine and adjust its speed in real time to ensure the tea leaves are rolled just right—not crushed, not loose. Visual indicators guide the player to avoid under- or over-processing the leaves.",
+      "image": "https://github.com/Pasindu-Promodh/portfolio/blob/main/public/Dilmah/SS/Roll.png?raw=true",
+      "tags": ["Unreal Engine", "Blueprints", "3D Game", "Pawn Blueprint", "Mini Game Base","Mini Game", "Timing", "Tea Processing", "Speed Control"],
+      "type": "game",
+      "status": "completed",
+      "featured": false,
+      "media": ["https://github.com/Pasindu-Promodh/portfolio/raw/main/public/Dilmah/Rolling.mp4"]
+    },
+    {
+      "id": 6,
+      "title": "Leaves Selection Game - Steep & Sort",
+      "description": "Sort out low-quality tea leaves on a fast-moving belt.",
+      "longDescription": "This minigame is part of ‘Dilmah - Legacy of the Leaf’, A conveyor belt delivers a mix of tea leaf grades. Players must remove the poor-quality leaves while letting good and medium ones pass. Scoring depends on accuracy and speed, simulating real-life tea sorting.",
+      "image": "https://github.com/Pasindu-Promodh/portfolio/blob/main/public/Dilmah/SS/Sorting.png?raw=true",
+      "tags": ["Unreal Engine", "Blueprints", "3D Game", "Pawn Blueprint", "Mini Game Base","Mini Game", "Sorting", "Speed", "Precision"],
+      "type": "game",
+      "status": "completed",
+      "featured": false,
+      "media": ["https://github.com/Pasindu-Promodh/portfolio/raw/main/public/Dilmah/Sorting.mp4"]
+    },
+    {
+      "id": 7,
+      "title": "Tea Grading Game - Tea Grade Quest",
+      "description": "Match moving boxes to their correct tea grade labels.",
+      "longDescription": "This minigame is part of ‘Dilmah - Legacy of the Leaf’, Boxes labeled with BOP, BOPF, Dust, and other grades appear on a belt. Players must identify and route each to its correct bin using fast recognition and matching skills under time pressure.",
+      "image": "https://github.com/Pasindu-Promodh/portfolio/blob/main/public/Dilmah/SS/Grade.png?raw=true",
+      "tags": ["Unreal Engine", "Blueprints", "3D Game", "Pawn Blueprint", "Mini Game Base","Mini Game", "Recognition", "Grading", "Sorting"],
+      "type": "game",
+      "status": "completed",
+      "featured": false,
+      "media": ["https://github.com/Pasindu-Promodh/portfolio/raw/main/public/Dilmah/Grading.mp4"]
+    },
+    {
+      "id": 8,
+      "title": "Telephone Wire Connecting Game - Operator: Brew Division",
+      "description": "Connect voice messages to the right department using a vintage switchboard.",
+      "longDescription": "This minigame is part of ‘Dilmah - Legacy of the Leaf’, Players listen to voice messages and connect each to the right department—Denawaka Bungalow, Nursery, Founder, etc.—by dragging wires to sockets. A fast-paced memory and decision-making challenge.",
+      "image": "https://github.com/Pasindu-Promodh/portfolio/blob/main/public/Dilmah/SS/Tele.png?raw=true",
+      "tags": ["Unreal Engine", "Blueprints", "3D Game", "Pawn Blueprint", "Mini Game Base","Mini Game", "Puzzle", "Memory", "Switchboard"],
+      "type": "game",
+      "status": "completed",
+      "featured": false,
+      "media": ["https://github.com/Pasindu-Promodh/portfolio/raw/main/public/Dilmah/Telephone.mp4"]
+    },
+    {
+      "id": 9,
+      "title": "Leaves Waste Filtering Game - Steep It Clean",
+      "description": "Filter out impurities from tea leaves on a moving line.",
+      "longDescription": "This minigame is part of ‘Dilmah - Legacy of the Leaf’, Inspect tea leaves mixed with debris like rocks and twigs. Players must quickly remove the impurities as they pass on a belt to ensure purity for the next stage of processing.",
+      "image": "https://github.com/Pasindu-Promodh/portfolio/blob/main/public/Dilmah/SS/Wastefil.png?raw=true",
+      "tags": ["Unreal Engine", "Blueprints", "3D Game", "Pawn Blueprint", "Mini Game Base","Mini Game", "Filtering", "Precision", "Cleanliness"],
+      "type": "game",
+      "status": "completed",
+      "featured": false,
+      "media": ["https://github.com/Pasindu-Promodh/portfolio/raw/main/public/Dilmah/Waste%20Filtering.mp4"]
+    },
+    {
+      "id": 10,
+      "title": "Tea Packing Game - Pack It Right",
+      "description": "Pack tea bags to exactly 50 kg for maximum points.",
+      "longDescription": "This minigame is part of ‘Dilmah - Legacy of the Leaf’, Players must stop the filling process at precisely 50 kg per tea bag. Scoring is based on precision, with bonus points for perfect weight. A balance of speed, focus, and timing is key.",
+      "image": "https://github.com/Pasindu-Promodh/portfolio/blob/main/public/Dilmah/SS/Pack.png?raw=true",
+      "tags": ["Unreal Engine", "Blueprints", "3D Game", "Pawn Blueprint", "Mini Game Base","Mini Game", "Precision", "Packing", "Timing"],
+      "type": "game",
+      "status": "completed",
+      "featured": false,
+      "media": ["https://github.com/Pasindu-Promodh/portfolio/raw/main/public/Dilmah/Packing.mp4"]
+    },
+    {
+      "id": 11,
+      "title": "Prune Mother Tree Game",
+      "description": "Carefully prune tea shoots at ideal points to keep trees healthy.",
+      "longDescription": "This minigame is part of ‘Dilmah - Legacy of the Leaf’, Shoots appear randomly on the tea tree. Players must react quickly to prune them cleanly before they grow too much. Every correct prune helps tree health, while missed shoots reduce the score. This minigame is still in progress.",
+      "image": "https://github.com/Pasindu-Promodh/portfolio/blob/main/public/Dilmah/SS/Pruning1.png?raw=true",
+      "tags": ["Unreal Engine", "Blueprints", "3D Game", "Pawn Blueprint", "Mini Game Base","Mini Game", "Timing", "Tree Care", "Work in Progress"],
+      "type": "game",
+      "status": "in progress",
+      "featured": false,
+      "media": [
+        "https://github.com/Pasindu-Promodh/portfolio/blob/main/public/Dilmah/SS/Pruning.png?raw=true",
+        "https://github.com/Pasindu-Promodh/portfolio/raw/main/public/Dilmah/Pruning.mp4"]
+    },
+    {
+      "id": 12,
+      "title": "Frogged Out",
+      "description": "Help Toadrick win the heart of Froggy Minaj in this 2D endless runner!",
+      "longDescription": "Frogged Out is a 2D endless runner game built in Unity where you play as Toadrick, a hopelessly romantic frog trying to win over Froggy Minaj, the coolest girl frog in town. Collect coins, dodge obstacles, and buy her gifts to win her heart. With charming visuals, quirky humor, and an addictive gameplay loop, this casual runner offers a lighthearted take on classic arcade mechanics.",
+      "image": "https://github.com/Pasindu-Promodh/portfolio/blob/main/public/Froggy/Screenshot%202025-07-04%20181323.png?raw=true",
+      "tags": ["Unity", "2D", "Endless Runner", "Comedy", "Casual", "Platformer"],
+      "type": "mobile",
+      "status": "completed",
+      "featured": true,
+      "github": "https://github.com/ManeeshaG1/Frogged-Out",
+      "demo": "https://maneeshag1.github.io/Frogged-Out-Build/",
+      "media": [
+        "https://github.com/Pasindu-Promodh/portfolio/blob/main/public/Froggy/Screenshot%202025-07-04%20181422.png?raw=true",
+        "https://github.com/Pasindu-Promodh/portfolio/blob/main/public/Froggy/Screenshot%202025-07-04%20181553.png?raw=true",
+        "https://github.com/Pasindu-Promodh/portfolio/blob/main/public/Froggy/Screenshot%202025-07-04%20181628.png?raw=true",
+        "https://github.com/Pasindu-Promodh/portfolio/blob/main/public/Froggy/Screenshot%202025-07-04%20181700.png?raw=true",
+        "https://github.com/Pasindu-Promodh/portfolio/raw/main/public/Froggy/Frogged%20Out%20005.mp4",
+        "https://github.com/Pasindu-Promodh/portfolio/raw/main/public/Froggy/Froggedoutcutscenes%20Allclips%20(Online-Video-Cutter.Com).mp4"
+      ],
+      "features": [
+        "Unity 2D Endless Runner Gameplay",
+        "Playable Character: Toadrick the Frog",
+        "Coin Collection & Duration based score System",
+        "Lighthearted Romantic Storyline"
+      ]
+    },
+
+    {
+    "id": 13,
+    "title": "Library of the Damned",
+    "description": "3D horror escape room game set in a haunted village library.",
+    "longDescription": "An early Unreal Engine project I began during my learning phase — a 3D horror escape room game built in Unreal Engine. The story follows a police officer investigating a string of missing villagers, all clues leading to the village’s abandoned library. The atmosphere is focused on tension, mystery, and eerie environmental storytelling. Though the game remains unfinished, it served as a major stepping stone in my Unreal Engine development journey.",
+    "image": "https://github.com/Pasindu-Promodh/portfolio/blob/main/public/Library/maneesha-goonetilleke-screenshot-35.jpg?raw=true",
+    "tags": ["Unreal Engine", "3D Game", "Horror", "Escape Room", "Early Project", "Environment Design"],
+    "type": "game",
+    "status": "in progress",
+    "featured": true,
+    "media": [
+    "https://github.com/Pasindu-Promodh/portfolio/blob/main/public/Library/maneesha-goonetilleke-screenshot-36.jpg?raw=true",
+    "https://github.com/Pasindu-Promodh/portfolio/blob/main/public/Library/maneesha-goonetilleke-whatsapp-image-2023-03-09-at-21-57-50.jpg?raw=true",
+    "https://github.com/Pasindu-Promodh/portfolio/blob/main/public/Library/maneesha-goonetilleke-whatsapp-image-2023-03-09-at-21-57-51.jpg?raw=true",
+    "https://github.com/Pasindu-Promodh/portfolio/blob/main/public/Library/maneesha-goonetilleke-whatsapp-image-2023-03-09-at-21-57-52-1.jpg?raw=true",
+    "https://github.com/Pasindu-Promodh/portfolio/blob/main/public/Library/maneesha-goonetilleke-whatsapp-image-2023-03-09-at-21-57-52.jpg?raw=true",
+    "https://github.com/Pasindu-Promodh/portfolio/blob/main/public/Library/maneesha-goonetilleke-whatsapp-image-2023-03-09-at-21-57-53-1.jpg?raw=true",
+    "https://github.com/Pasindu-Promodh/portfolio/blob/main/public/Library/maneesha-goonetilleke-whatsapp-image-2023-03-09-at-21-57-53.jpg?raw=true",
+    "https://github.com/Pasindu-Promodh/portfolio/blob/main/public/Library/maneesha-goonetilleke-whatsapp-image-2023-03-09-at-21-57-54.jpg?raw=true/"
+    ],
+    "features": [
+      "Built with Unreal Engine",
+      "Escape Room Gameplay",
+      "Atmospheric Horror Design"
+    ]
+  },
+    {
+    "id": 14,
+    "title": "2048 Game",
+    "description": "3D version of the classic 2048 puzzle game, built in Unity.",
+    "longDescription": "A 3D take on the popular 2048 puzzle game, developed using Unity. Players combine numbered tiles on a grid by sliding them in four directions to reach the 2048 tile and beyond. The 3D visuals add depth and polish to the classic gameplay, creating an engaging puzzle experience suitable for mobile and desktop platforms.",
+    "image": "https://github.com/Pasindu-Promodh/portfolio/blob/main/public/2048/2048.png?raw=true",
+    "tags": ["Unity", "3D", "Puzzle", "Casual", "Mobile", "Game Development"],
+    "type": "mobile",
+    "status": "completed",
+    "featured": true,
+    "github": "https://github.com/ManeeshaG1/2048",
+    "demo": "https://maneeshag1.github.io/2048/",
+    "media": ["https://github.com/Pasindu-Promodh/portfolio/raw/main/public/2048/Movie%20002.mp4"]
+  },
+  {
+  "id": 15,
+  "title": "Color Bounce",
+  "description": "3D color-matching arcade game with dynamic speed progression.",
+  "longDescription": "Color Bounce is a 3D arcade game developed in Unity, where players control a bouncing ball as it descends through floating, colorful pillars in the sky. Each pillar appears with three randomized colors, and players must quickly tap the screen to switch the ball’s color to match the one it lands on. The game intensifies as the ball’s bounce speed increases over time, testing the player’s reflexes and color coordination in a vibrant environment.",
+  "image": "https://github.com/Pasindu-Promodh/portfolio/blob/main/public/Mobi/ChatGPT%20Image%20Jul%2013,%202025,%2012_32_04%20AM.png?raw=true",  
+  "tags": ["Unity", "3D Game", "Arcade", "Color Matching", "Mobile Game", "Reflex Game"],
+  "type": "mobile",
+  "status": "completed",
+  "featured": false,
+  "media": ["https://github.com/Pasindu-Promodh/portfolio/raw/main/public/Mobi/VID-20250708-WA0017.mp4"]
+},
+{
+  "id": 16,
+  "title": "Tuk Tuk Raid",
+  "description": "High-speed 3D action game featuring explosive tuk tuk chases and shootouts.",
+  "longDescription": "Tuk Tuk Raid is a fast-paced 3D action arcade game developed in Unity. Players control a tuk tuk that is constantly firing at enemy mafia tuk tuks chasing from behind. The objective is to destroy as many enemy tuk tuks as possible to increase the score, while dodging incoming ones to avoid collisions. If the player’s tuk tuk crashes into an undestroyed enemy, the game ends. With escalating difficulty, the game delivers adrenaline-pumping gameplay through chaotic tuk tuk battles and reactive dodging mechanics.",
+  "image": "https://github.com/Pasindu-Promodh/portfolio/blob/main/public/Mobi/ChatGPT%20Image%20Jul%2013,%202025,%2012_32_23%20AM.png?raw=true",
+  "tags": ["Unity", "3D Game", "Arcade", "Shooter", "Action", "Endless", "Vehicle Combat"],
+  "type": "mobile",
+  "status": "completed",
+  "featured": false,
+  "media": ["https://github.com/Pasindu-Promodh/portfolio/raw/main/public/Mobi/VID-20250708-WA0016.mp4"]
+},
+    {
+    "id": 17,
+    "title": "Jigsaw Memes",
+    "description": "Solve hilarious meme puzzles before time runs out!",
+    "longDescription": "Jigsaw Memes is a 2D Unity puzzle game where your favorite internet memes are broken into pieces. Your goal? Complete each jigsaw puzzle before the timer hits zero. With a variety of meme-based puzzles that get trickier as you progress, this game blends classic jigsaw gameplay with meme humor for a fun and frantic experience. It’s a race against time—and laughter.",
+    "image": "https://raw.githubusercontent.com/ManeeshaG1/Jigsaw-Memes-Build/main/thumbnail2.webp",
+    "tags": ["Unity", "2D", "Puzzle", "Memes", "Casual", "Jigsaw"],
+    "type": "game",
+    "status": "completed",
+    "featured": false,
+    "github": "https://github.com/ManeeshaG1/Jigsaw-Memes",
+    "demo": "https://maneeshag1.github.io/Jigsaw-Memes-Build/"
+  },
+  {
+  "id": 18,
+  "title": "Pedro! Pedro! Pedro!",
+  "description": "Meme-inspired 2D reflex game featuring the infamous Pedro the Raccoon.",
+  "longDescription": "Pedro! Pedro! Pedro! is a 2D Unity game inspired by the viral Pedro the Raccoon meme. The player is shown a moving magnifying glass (created using an inverted mask effect), which scans across the screen at random speeds. Beneath it, Pedro the raccoon hides within a larger background layer. The player must click on Pedro the moment he’s visible through the magnifying glass before it moves away. With quick reflexes and precise timing, the challenge lies in spotting and clicking Pedro before he disappears again. It’s a light-hearted reflex test wrapped in meme-fueled chaos.",
+  "image": "https://raw.githubusercontent.com/ManeeshaG1/Pedro-Build/main/thumbnail2.webp",
+  "tags": ["Unity", "2D Game", "Meme Game", "Reflex", "Casual", "Clicker", "Pedro the Raccoon"],
+  "type": "game",
+  "status": "completed",
+  "featured": false,
+  "github": "https://github.com/ManeeshaG1/Pedro-Build",
+  "demo": "https://maneeshag1.github.io/Pedro-Build/"
+},
+
+  {
+    "id": 19,
+    "title": "Find The Beast",
+    "description": "A fast-paced meme-inspired 2D arcade game",
+    "longDescription": "Find The Beast is a 2D hypercasual arcade game developed in Unity, inspired by viral internet memes of Mr. Beast and Mr. Lean. Players must quickly identify and tap on the real Mr. Beast as he moves among a swarm of identical-looking Mr. Lean faces. With each level, the game increases in speed and complexity—introducing more distractions and challenging the player's reflexes. Designed for quick, addictive gameplay and meme lovers, it's a perfect mix of humor and challenge.",
+    "image": "https://raw.githubusercontent.com/Pasindu-Promodh/portfolio/main/public/Find%20the%20beast/find%20the%20beast.jpg",
+    "tags": ["Unity", "2D", "Arcade", "Hypercasual", "Meme", "Mr Beast", "Mr Lean", "Mobile Game"],
+    "type": "game",
+    "status": "completed",
+    "featured": false,
+    "github": "https://github.com/ManeeshaG1/Find-the-Beast",
+    "demo": "https://maneeshag1.github.io/Find-the-Beast-Build/",
+    "media" : [
+      "https://github.com/Pasindu-Promodh/portfolio/raw/main/public/Find%20the%20beast/Movie_010.mp4"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Dictator Sprint",
+    "description": "Fast-paced 2D runner where Aladeen shoots rivals on the track",
+    "longDescription": "Inspired by the movie 'The Dictator', Dictator Sprint is a hilarious and chaotic 2D Unity game where you play as General Aladeen sprinting down an Olympic track. As other runners try to overtake you, take them down with pinpoint shots to maintain your lead. With simple controls, exaggerated animations, and over-the-top action, this satirical arcade game delivers fast-paced fun and political absurdity in equal measure.",
+    "image": "https://raw.githubusercontent.com/Pasindu-Promodh/portfolio/main/public/Dictator%20Sprint/Dictator%20Sprint.jpg",
+    "tags": ["Unity", "2D", "Arcade", "Runner", "Shooter", "Satire"],
+    "type": "game",
+    "status": "completed",
+    "featured": false,
+    "github": "https://github.com/ManeeshaG1/Supreme-Sprint",
+    "demo": "https://maneeshag1.github.io/Supreme-Sprint-Build/"
+  },
+  {
+    "id": 21,
+    "title": "Meme Infection",
+    "description": "Tap to stop the zombie meme outbreak before it spreads!",
+    "longDescription": "Meme Infection is a fast-paced 2D strategy game where a single infected meme becomes patient zero in a viral zombie outbreak. As the infection spreads across your favorite meme characters—moving up, down, left, or right—you must act quickly. Tap or click on zombies to eliminate them before they infect the entire board. It's a race against time: wipe out all the zombies before the memes are lost forever!",
+    "image": "https://raw.githubusercontent.com/ManeeshaG1/Meme-Infection-Build/main/thumbnail2.webp",
+    "tags": ["2D", "Strategy", "Meme", "Zombie", "Arcade", "Unity"],
+    "type": "game",
+    "status": "completed",
+    "featured": false,
+    "github": "https://github.com/ManeeshaG1/Meme-Infection",
+    "demo": "https://maneeshag1.github.io/Meme-Infection-Build/"
+  },
+  {  "id": 22,
+  "title": "Meme Stacker",
+  "description": "A 2D jump-and-stack arcade game featuring meme cubes.",
+  "longDescription": "Meme Stacker is a 2D Unity arcade game where players control a jumping Pepe meme character that stacks meme-themed cubes. The goal is to time each jump so the cubes land perfectly on top of one another. Precise landings on the center reward bonus points, encouraging accuracy and rhythm. With its humorous meme visuals and reflex-based stacking mechanics, Meme Stacker delivers a fast-paced and funny casual gaming experience.",
+  "image": "https://raw.githubusercontent.com/ManeeshaG1/Jump-Stack-Build/main/thumbnail2.webp",
+  "tags": ["Unity", "2D Game", "Meme Game", "Arcade", "Stacker", "Pepe", "Casual"],
+  "type": "game",
+  "status": "completed",
+  "featured": false,
+  "github": "https://github.com/ManeeshaG1/Jump-Stack-Build",
+  "demo": "https://maneeshag1.github.io/Jump-Stack-Build/"
+},
+  {
+  "id": 23,
+  "title": "Mogg Leveling",
+  "description": "A 2D tap-to-level game inspired by Solo Leveling anime.",
+  "longDescription": "Mogg Leveling is a 2D Unity game inspired by the popular anime Solo Leveling. In this game, players tap rapidly to help level up Sung Jin-Woo, famously known as the weakest hunter. Each tap contributes to his strength, symbolizing his journey from underdog to unstoppable shadow monarch. Designed for quick, satisfying progress and visually driven transformation, the game taps into anime fans’ love for power progression, determination, and glow-ups. The art and UI reflect a dark, sleek aesthetic, echoing the show's tone and character growth arc.",
+  "image": "https://raw.githubusercontent.com/ManeeshaG1/Mogg-Leveling-Build/refs/heads/main/thumbnail2.webp",
+  "tags": ["Unity", "2D Game", "Anime", "Clicker", "Idle Tapper", "Solo Leveling", "Casual"],
+  "type": "game",
+  "status": "completed",
+  "featured": false,
+  "github": "https://github.com/ManeeshaG1/Mogg-Leveling-Build",
+  "demo": "https://maneeshag1.github.io/Mogg-Leveling-Build/"
+},
+
+    {
+    "id": 24,
+    "title": "Hasbulla's Makeover",
+    "description": "Give Hasbulla an instant makeover—perfectly time the mustache drop!",
+    "longDescription": "Hasbulla's Makeover is a hilarious timing-based 2D Unity game where Hasbulla Magomedov’s iconic baby face awaits your touch of style. A cartoon mustache and wig swing left and right across his face, and it’s up to you to tap at the perfect moment. Land the accessories right where they belong to give Hasbulla an aged, gentlemanly look. Nail the alignment to score points, but miss—and it's a hilarious fail. Simple, absurd, and addictively fun.",
+    "image": "https://raw.githubusercontent.com/ManeeshaG1/Hasbullas-Makeover-Build/main/thumbnail2.webp",
+    "tags": ["Unity", "2D", "Casual", "Funny", "Timing", "Hasbulla"],
+    "type": "game",
+    "status": "completed",
+    "featured": false,
+    "demo": "https://maneeshag1.github.io/Hasbullas-Makeover-Build/"
+  },
+  {
+  "id": 25,
+  "title": "$WTF Moonshot",
+  "description": "A meme coin inspired 2D tap game to send $WTF to the moon.",
+  "longDescription": "$WTF Moonshot is a 2D Unity tap game inspired by the viral $WTF meme coin. Players must tap continuously to keep the $WTF coin rising toward the moon. The faster and more consistently you tap, the higher the coin market cap rises. With a clean retro visual style and crypto-meme humor, the game plays on the hype of moon-bound tokens and fast-paced reflex fun.",
+  "image": "https://raw.githubusercontent.com/ManeeshaG1/Moonshot/main/thumbnail2.webp",
+  "tags": ["Unity", "2D Game", "Meme Game", "Tapper", "Crypto", "Casual", "WTF Coin"],
+  "type": "game",
+  "status": "completed",
+  "featured": false,
+  "github": "https://github.com/ManeeshaG1/Moonshot/tree/main",
+  "demo": "https://maneeshag1.github.io/Moonshot/"
+},
+
+  {
+    "id": 26,
+    "title": "Brain Rain",
+    "description": "Brains are falling. catch them or be left brainless in this viral meme-inspired reflex game.",
+    "longDescription": "Brain Rain is a fun and fast-paced 2D Unity game inspired by the viral 'hey you dropped this 🧠' meme. Players control a stick figure character who must move left and right to catch falling brains. Miss a brain, and it's game over. With increasing difficulty and speed, this hypercasual game tests your reflexes while delivering meme-fueled humor. Designed for short, engaging sessions, it’s perfect for mobile or web platforms.",
+    "image": "https://raw.githubusercontent.com/ManeeshaG1/Brain-Rain-Build/main/thumbnail2.webp",
+    "tags": ["Unity", "2D", "Hypercasual", "Arcade", "Meme", "Stickman", "Catch Game", "Mobile Game"],
+    "type": "game",
+    "status": "completed",
+    "featured": false,
+    "github": "https://github.com/ManeeshaG1/Brain-Rain",
+    "demo": "https://maneeshag1.github.io/Brain-Rain-Build/"
+  },
+    {
+  "id": 27,
+  "title": "Chipi Chipi Cena",
+  "description": "A meme-fueled reflex game starring the dancing John Cena!",
+  "longDescription": "Chipi Chipi Cena is a light-hearted 2D Unity game inspired by the viral 'Chipi Chipi Chapa Chapa' John Cena dancing meme. This project features an inverted mask used to simulate a moving magnifying glass, which sweeps across the screen at random speeds. Beneath it, a dancing John Cena is hidden in. The player must quickly click on Cena whenever he becomes visible through the magnifying glass before it moves away. It’s a fun and fast-paced reaction game combining humor, internet culture, and visual trickery.",
+  "image": "https://raw.githubusercontent.com/MemeGamesWTF/JohnCena/main/thumbnail2.webp",
+  "tags": ["Unity", "2D Game", "Meme Game", "Reflex", "Casual", "Clicker", "John Cena"],
+  "type": "game",
+  "status": "completed",
+  "featured": false,
+  "demo": "https://memegameswtf.github.io/JohnCena/"
+},
+
+  {
+    "id": 28,
+    "title": "Fire Empowering Effect and Flame Throw Attack",
+    "description": "Realistic fire-based combat VFX showcasing power-up and attack phases.",
+    "longDescription": "This was my first ever visual effects project, created in Unity using Visual Effect Graph. It features a fire empowerment charge-up followed by a realistic flamethrower-style attack. Designed to simulate an action ability or power-up sequence, the effect focuses on timing, direction, and intensity to create satisfying visual feedback for combat or ability use. This project marked my entry into real-time VFX and taught me the fundamentals of graph-based visual effect creation.",
+    "image": "https://github.com/Pasindu-Promodh/portfolio/blob/main/public/VFX/Screenshot%20(35).png?raw=true",
+    "tags": ["Unity", "Visual Effects", "Visual Effect Graph", "Realistic", "Combat FX", "Fire"],
+    "type": "vfx",
+    "status": "completed",
+    "featured": true,
+    "media" : [
+      "https://github.com/Pasindu-Promodh/portfolio/raw/main/public/VFX/Fire%20Empowering%20Effect%20And%20Flame%20Throw%20Attack.mp4"
+    ]
+  },
+  {
+  "id": 29,
+  "title": "Sci-Fi Indigenous Echo Echo – 3D Model",
+  "description": "A custom 3D character reinterpretation of Echo Echo from Ben 10 with a sci-fi indigenous twist.",
+  "longDescription": "This project features a reimagined version of Echo Echo from the Ben 10 series, designed with a sci-fi indigenous theme. I created the model in Blender, focusing on stylized mechanical anatomy and cultural design elements. The character was fully rigged and brought to life with animations using Cinema 4D. The goal was to blend familiar cartoon aesthetics with a futuristic tribal look, suitable for games or cinematic sequences.",
+  "image": "https://github.com/Pasindu-Promodh/portfolio/blob/main/public/3D/Screenshot%20(41).png?raw=true",  
+  "tags": ["3D Modeling", "Blender", "Cinema 4D", "Character Design", "Animation", "Echo Echo", "Fan Art"],
+  "type": "3d",
+  "status": "completed",
+  "featured": false,
+  "media": ["https://github.com/Pasindu-Promodh/portfolio/raw/refs/heads/main/public/3D/3D%20Modeling%20Cinema%204D.mp4"],
+  "features": [
+    "Stylized Sci-Fi/Indigenous Fusion Design",
+    "Inspired by Ben 10's Echo Echo",
+    "Suitable for Games or Animation"
+  ]
+}
+]
