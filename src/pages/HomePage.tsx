@@ -48,6 +48,12 @@ const Home: React.FC = () => {
     return match?.icon || <Code />;
   };
 
+  const handleResumeClick = () => {
+    window.open(
+      "https://docs.google.com/document/d/1gRnR3gE1UOhozGOBbuftgneGMsjcf2KyRNCkLyyTrIY/export?format=pdf"
+    );
+  };
+
   return loaded ? (
     <Box sx={{ minHeight: "100vh", bgcolor: "background.default" }}>
       {/* Hero Section */}
@@ -187,7 +193,7 @@ const Home: React.FC = () => {
                       variant="outlined"
                       size="large"
                       component="a"
-                      href="/portfolio/Maneesha_Goonetilleke_Resume.pdf"
+                      //href="/portfolio/Maneesha_Goonetilleke_Resume.pdf"
                       target="_blank"
                       rel="noopener noreferrer"
                       sx={{
@@ -197,6 +203,7 @@ const Home: React.FC = () => {
                           bgcolor: "rgba(255,255,255,0.1)",
                         },
                       }}
+                      onClick={handleResumeClick}
                     >
                       Download Resume
                     </Button>
