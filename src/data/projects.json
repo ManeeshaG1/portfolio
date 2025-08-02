@@ -443,25 +443,6 @@
 },
 {
   "id": 30,
-  "title": "Nilame Aduma – 3D Costume Designing",
-  "description": "A 3D recreation of the traditional Sri Lankan 'Nilame Aduma' costume using Marvelous Designer.",
-  "longDescription": "This project showcases a digital recreation of the 'Nilame Aduma', a traditional ceremonial costume worn by Sri Lankan nobility. Created using Marvelous Designer, the garment was developed with a focus on authentic textile folds, draping, and ornamental detail. The design reflects cultural heritage while demonstrating precision in 3D cloth simulation, suitable for heritage-based virtual experiences or stylized cinematic presentations.",
-  "image": "https://github.com/ManeeshaG1/portfolio/blob/main/public/Nilame/maneesha-goonetilleke-5.jpg?raw=true",
-  "tags": ["3D Modeling", "Marvelous Designer", "Costume Design", "Cultural Heritage", "Sri Lankan Tradition", "Nilame Aduma"],
-  "type": "3d",
-  "status": "completed",
-  "featured": false,
-  "media": [
-    "https://github.com/ManeeshaG1/portfolio/blob/main/public/Nilame/maneesha-goonetilleke-55.jpg?raw=true",
-    "https://github.com/ManeeshaG1/portfolio/blob/main/public/Nilame/maneesha-goonetilleke-555.jpg?raw=true"],
-  "features": [
-    "Traditional Sri Lankan Costume Design",
-    "Simulated Cloth with Marvelous Designer",
-    "High-Detail Fabric Draping and Ornamentation"
-  ]
-},
-{
-  "id": 31,
   "title": "Osariya – 3D Costume Designing",
   "description": "A 3D representation of the traditional Sri Lankan 'Osariya' dress created using Marvelous Designer.",
   "longDescription": "This project presents a 3D recreation of the 'Osariya' (also known as Kandyan saree), a traditional Sri Lankan dress worn by women. The garment was designed using Marvelous Designer, with attention to authentic pleating, fabric layering, and draping techniques distinctive to the Osariya style. The goal was to capture cultural elegance in digital form, suitable for fashion visualization, animation, or cultural exhibitions in 3D environments.",
@@ -477,6 +458,26 @@
     "Traditional Sri Lankan 'Osariya' Dress",
     "Detailed Pleating and Draping",
     "Created Using Marvelous Designer for Cloth Simulation"
+  ]
+},
+{
+  "id": 31,
+  "title": "Nilame Aduma – 3D Costume Designing",
+  "description": "A 3D recreation of the traditional Sri Lankan 'Nilame Aduma' costume using Marvelous Designer.",
+  "longDescription": "This project showcases a digital recreation of the 'Nilame Aduma', a traditional ceremonial costume worn by Sri Lankan nobility. Created using Marvelous Designer, the garment was developed with a focus on authentic textile folds, draping, and ornamental detail. The design reflects cultural heritage while demonstrating precision in 3D cloth simulation, suitable for heritage-based virtual experiences or stylized cinematic presentations.",
+  "image": "https://github.com/ManeeshaG1/portfolio/blob/main/public/Nilame/Untitled%20design%20(22).png?raw=true",
+  "tags": ["3D Modeling", "Marvelous Designer", "Costume Design", "Cultural Heritage", "Sri Lankan Tradition", "Nilame Aduma"],
+  "type": "3d",
+  "status": "completed",
+  "featured": false,
+  "media": [
+    "https://github.com/ManeeshaG1/portfolio/blob/main/public/Nilame/maneesha-goonetilleke-5.jpg?raw=true",
+    "https://github.com/ManeeshaG1/portfolio/blob/main/public/Nilame/maneesha-goonetilleke-55.jpg?raw=true",
+    "https://github.com/ManeeshaG1/portfolio/blob/main/public/Nilame/maneesha-goonetilleke-555.jpg?raw=true"],
+  "features": [
+    "Traditional Sri Lankan Costume Design",
+    "Simulated Cloth with Marvelous Designer",
+    "High-Detail Fabric Draping and Ornamentation"
   ]
 },
 {
@@ -514,5 +515,4 @@
     "Suitable for Virtual Try-On and Fashion Visuals"
   ]
 }
-
 ]
