@@ -440,5 +440,79 @@
     "Inspired by Ben 10's Echo Echo",
     "Suitable for Games or Animation"
   ]
+},
+{
+  "id": 30,
+  "title": "Nilame Aduma – 3D Costume Designing",
+  "description": "A 3D recreation of the traditional Sri Lankan 'Nilame Aduma' costume using Marvelous Designer.",
+  "longDescription": "This project showcases a digital recreation of the 'Nilame Aduma', a traditional ceremonial costume worn by Sri Lankan nobility. Created using Marvelous Designer, the garment was developed with a focus on authentic textile folds, draping, and ornamental detail. The design reflects cultural heritage while demonstrating precision in 3D cloth simulation, suitable for heritage-based virtual experiences or stylized cinematic presentations.",
+  "image": "https://github.com/ManeeshaG1/portfolio/blob/main/public/Nilame/maneesha-goonetilleke-5.jpg?raw=true",
+  "tags": ["3D Modeling", "Marvelous Designer", "Costume Design", "Cultural Heritage", "Sri Lankan Tradition", "Nilame Aduma"],
+  "type": "3d",
+  "status": "completed",
+  "featured": false,
+  "media": [
+    "https://github.com/ManeeshaG1/portfolio/blob/main/public/Nilame/maneesha-goonetilleke-55.jpg?raw=true",
+    "https://github.com/ManeeshaG1/portfolio/blob/main/public/Nilame/maneesha-goonetilleke-555.jpg?raw=true"],
+  "features": [
+    "Traditional Sri Lankan Costume Design",
+    "Simulated Cloth with Marvelous Designer",
+    "High-Detail Fabric Draping and Ornamentation"
+  ]
+},
+{
+  "id": 31,
+  "title": "Osariya – 3D Costume Designing",
+  "description": "A 3D representation of the traditional Sri Lankan 'Osariya' dress created using Marvelous Designer.",
+  "longDescription": "This project presents a 3D recreation of the 'Osariya' (also known as Kandyan saree), a traditional Sri Lankan dress worn by women. The garment was designed using Marvelous Designer, with attention to authentic pleating, fabric layering, and draping techniques distinctive to the Osariya style. The goal was to capture cultural elegance in digital form, suitable for fashion visualization, animation, or cultural exhibitions in 3D environments.",
+  "image": "https://github.com/ManeeshaG1/portfolio/blob/main/public/Saree/maneesha-goonetilleke-12.jpg?raw=true",
+  "tags": ["3D Modeling", "Marvelous Designer", "Costume Design", "Sri Lankan Tradition", "Osariya", "Cultural Fashion"],
+  "type": "3d",
+  "status": "completed",
+  "featured": false,
+  "media": [
+    "https://github.com/ManeeshaG1/portfolio/blob/main/public/Saree/maneesha-goonetilleke-123.jpg?raw=true",
+    "https://github.com/ManeeshaG1/portfolio/blob/main/public/Saree/maneesha-goonetilleke-1234.jpg?raw=true"],
+  "features": [
+    "Traditional Sri Lankan 'Osariya' Dress",
+    "Detailed Pleating and Draping",
+    "Created Using Marvelous Designer for Cloth Simulation"
+  ]
+},
+{
+  "id": 32,
+  "title": "Spaghetti Strap Dress – 3D Costume Designing",
+  "description": "A modern spaghetti strap dress designed and simulated in 3D using Marvelous Designer.",
+  "longDescription": "This project showcases a 3D fashion design of a spaghetti strap dress, created using Marvelous Designer. The focus was on achieving realistic cloth flow, body fit, and natural movement through accurate fabric simulation. The design reflects a contemporary aesthetic suitable for fashion prototyping, virtual modeling, or stylized animation use. Fine-tuned details such as fabric tension, seams, and soft silhouette emphasize a high-end digital garment finish.",
+  "image": "https://github.com/ManeeshaG1/portfolio/blob/main/public/Dress/maneesha-goonetilleke-spagetti-dress%20(1).jpg?raw=true",
+  "tags": ["3D Modeling", "Marvelous Designer", "Costume Design", "Fashion Simulation", "Spaghetti Strap Dress", "Modern Wear"],
+  "type": "3d",
+  "status": "completed",
+  "featured": false,
+  "media": ["https://github.com/ManeeshaG1/portfolio/blob/main/public/Dress/maneesha-goonetilleke-spagetti-dress.jpg?raw=true",
+  "https://github.com/ManeeshaG1/portfolio/blob/main/public/Dress/maneesha-goonetilleke-spagetti-dress3.jpg?raw=true"],
+  "features": [
+    "Modern Spaghetti Strap Dress",
+    "Realistic Cloth Flow and Fit",
+    "Simulated with Marvelous Designer"
+  ]
+},
+{
+  "id": 33,
+  "title": "Sports Bra with Pads – 3D Costume Designing",
+  "description": "A functional and stylish sports bra with padding, created in 3D using CLO Standalone.",
+  "longDescription": "This project features a 3D design of a padded sports bra created using CLO Standalone. The focus was on achieving both anatomical accuracy and performance-oriented structure, including seamless edges, supportive paneling, and integrated padding. The digital garment reflects real-world activewear construction and is suitable for product visualization, fitness app avatars, or virtual fashion showcases.",
+  "image": "https://github.com/ManeeshaG1/portfolio/blob/main/public/Bra/maneesha-goonetilleke-sport-bra%20(1).jpg?raw=true",
+  "tags": ["3D Modeling", "CLO Standalone", "Costume Design", "Sportswear", "Fashion Simulation", "Padded Sports Bra"],
+  "type": "3d",
+  "status": "completed",
+  "featured": false,
+  "media": ["https://github.com/ManeeshaG1/portfolio/blob/main/public/Bra/maneesha-goonetilleke-sport-bra.jpg?raw=true"],
+  "features": [
+    "Realistic Sports Bra Design with Padding",
+    "Built Using CLO Standalone for Precision and Fit",
+    "Suitable for Virtual Try-On and Fashion Visuals"
+  ]
 }
+
 ]
