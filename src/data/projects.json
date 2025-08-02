@@ -486,13 +486,15 @@
   "title": "Spaghetti Strap Dress – 3D Costume Designing",
   "description": "A modern spaghetti strap dress designed and simulated in 3D using Marvelous Designer.",
   "longDescription": "This project showcases a 3D fashion design of a spaghetti strap dress, created using Marvelous Designer. The focus was on achieving realistic cloth flow, body fit, and natural movement through accurate fabric simulation. The design reflects a contemporary aesthetic suitable for fashion prototyping, virtual modeling, or stylized animation use. Fine-tuned details such as fabric tension, seams, and soft silhouette emphasize a high-end digital garment finish.",
-  "image": "https://github.com/ManeeshaG1/portfolio/blob/main/public/Dress/maneesha-goonetilleke-spagetti-dress%20(1).jpg?raw=true",
+  "image": "https://github.com/ManeeshaG1/portfolio/blob/main/public/Dress/Untitled%20design%20(24).png?raw=true",
   "tags": ["3D Modeling", "Marvelous Designer", "Costume Design", "Fashion Simulation", "Spaghetti Strap Dress", "Modern Wear"],
   "type": "3d",
   "status": "completed",
   "featured": false,
-  "media": ["https://github.com/ManeeshaG1/portfolio/blob/main/public/Dress/maneesha-goonetilleke-spagetti-dress.jpg?raw=true",
-  "https://github.com/ManeeshaG1/portfolio/blob/main/public/Dress/maneesha-goonetilleke-spagetti-dress3.jpg?raw=true"],
+  "media": [
+    "https://github.com/ManeeshaG1/portfolio/blob/main/public/Dress/maneesha-goonetilleke-spagetti-dress%20(1).jpg?raw=true",
+    "https://github.com/ManeeshaG1/portfolio/blob/main/public/Dress/maneesha-goonetilleke-spagetti-dress.jpg?raw=true",
+    "https://github.com/ManeeshaG1/portfolio/blob/main/public/Dress/maneesha-goonetilleke-spagetti-dress3.jpg?raw=true"],
   "features": [
     "Modern Spaghetti Strap Dress",
     "Realistic Cloth Flow and Fit",
