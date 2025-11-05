@@ -220,7 +220,11 @@ const Home: React.FC = () => {
               <Slide direction="left" in timeout={1200}>
                 <Box sx={{ display: "flex", justifyContent: "center" }}>
                   <Avatar
+<<<<<<< HEAD
                     src={PP1}
+=======
+                    src="https://github.com/ManeeshaG1/portfolio/blob/main/public/PP1.jpeg?raw=true"
+>>>>>>> a7bcb926a103aa31ceca41b7dfc2c065e2740fe6
                     sx={{
                       width: 250,
                       height: 250,
