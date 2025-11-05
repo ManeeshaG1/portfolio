@@ -217,7 +217,7 @@ const Home: React.FC = () => {
               <Slide direction="left" in timeout={1200}>
                 <Box sx={{ display: "flex", justifyContent: "center" }}>
                   <Avatar
-                    src="https://media.licdn.com/dms/image/v2/D5603AQGvGYe0q9xbIQ/profile-displayphoto-shrink_800_800/B56ZOVIrHDGoAc-/0/1733373900788?e=1756944000&v=beta&t=ZPQn5y_TtJFhq7DgO89uQo4Ib8oh6O7tFCZFcP7ApkE"
+                    src="https://github.com/ManeeshaG1/portfolio/blob/main/public/PP1.jpeg?raw=true"
                     sx={{
                       width: 250,
                       height: 250,
